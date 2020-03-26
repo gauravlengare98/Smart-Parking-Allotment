@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Show Bookings"
+    android:id="@+id/showBookings"
+    />
+    <item android:title="Edit Profile"
+        android:id="@+id/editProfile"
+        />
+    <item android:title="View Vehicle Details"
+        android:id="@+id/displayVehicle"
+        />
+    <item android:title="Log Out"
+        android:id="@+id/logout"/>
+</menu>

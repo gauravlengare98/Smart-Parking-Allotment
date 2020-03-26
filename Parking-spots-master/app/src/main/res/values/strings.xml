@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parking Spots</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="openDrawer">open</string>
+    <string name="closeDrawer">close</string>
+</resources>
